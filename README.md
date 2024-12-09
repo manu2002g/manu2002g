@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Manusha 👋
+
+## About Me
+
+I'm a recent graduate from the [National University of Singapore](https://www.nus.edu.sg/)'s Bachelor of Computing (Honours) Computer Science programme.  I did a focus area in AI as well as a minor in Economics. I'm curious and a quick learner, and I like building things.
+
+## Skills
+
+I am comfortable with Java, JavaScript (React, Express.js), Python, and C++. I also have had experience using AWS tools such as S3, Lambda and EKS.
+
+Profile photo is a snap of Applique Foundation II, 2023 by [Hema Shironi](https://www.saskiafernandogallery.com/artists/237-hema-shironi/overview/)
 
 <!--
 **manu2002g/manu2002g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
